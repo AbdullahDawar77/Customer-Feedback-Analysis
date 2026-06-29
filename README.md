@@ -18,7 +18,9 @@ Customer-Feedback-Analysis/
 │   ├── Rating.png
 │   └── Sentiment by Products.png
 │
-└── README.md
+├── README.md
+│
+└── feedback_data.csv             # Raw dataset used for analysis
 ```
 
 ---
@@ -87,12 +89,7 @@ Customer-Feedback-Analysis/
 ## 👤 Author
 
 **Abdullah Dawar**
-Aspiring Data Analyst | Excel • SQL • Power BI
-[GitHub Profile](https://github.com/AbdullahDawar77)
-
----
-
-*This project is part of a data analytics portfolio developed to demonstrate real-world data analysis skills for analyst roles.*
+📁 [GitHub Portfolio](https://github.com/AbdullahDawar77)
 
 ---
 
