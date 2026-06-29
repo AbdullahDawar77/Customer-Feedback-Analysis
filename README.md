@@ -89,6 +89,13 @@ Customer-Feedback-Analysis/
 ## 👤 Author
 
 **Abdullah Dawar**
+Aspiring Data Analyst | Excel • SQL • Power BI
+[GitHub Profile](https://github.com/AbdullahDawar77)
+
+---
+
+*This project is part of a data analytics portfolio developed to demonstrate real-world data analysis skills for analyst roles.*
+
 📁 [GitHub Portfolio](https://github.com/AbdullahDawar77)
 
 ---
